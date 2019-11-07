@@ -6,6 +6,7 @@ work with patrick
 
 - Pix2pix tensorflow [https://github.com/affinelayer/pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow)
 - Pix2pixHD [https://github.com/NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
+- StackGAN [https://github.com/hanzhanggit/StackGAN](https://github.com/hanzhanggit/StackGAN)
 
 ## Reference
 
