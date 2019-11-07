@@ -5,6 +5,7 @@ work with patrick
 ## Generative Models
 
 - Pix2pix tensorflow [https://github.com/affinelayer/pix2pix-tensorflow](https://github.com/affinelayer/pix2pix-tensorflow)
+- Pix2pixHD [https://github.com/NVIDIA/pix2pixHD](https://github.com/NVIDIA/pix2pixHD)
 
 ## Reference
 
